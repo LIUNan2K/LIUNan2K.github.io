@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello, welcome
 
-I'm currently a Master student at the School of Cyber Science and Engineering, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) (XJTU), advised by Prof. [Zhou Su](https://scholar.google.com/citations?user=KDbnu2cAAAAJ). I'm also very lucky to receive the guidance of Prof. [Tom H. Luan](https://scholar.google.com/citations?user=lPDUfpgAAAAJ), Prof. [Yuntao Wang](https://scholar.google.com/citations?user=90fr-8wAAAAJ), and Prof. [Yiliang Liu](https://scholar.google.com/citations?user=beCuvCwAAAAJ).
+I'm currently a Master student at the School of Cyber Science and Engineering, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) (XJTU), advised by Prof. [Zhou Su](https://scholar.google.com/citations?user=KDbnu2cAAAAJ). I'm also very lucky to receive the guidance of Prof. [Tom H. Luan](https://scholar.google.com/citations?user=lPDUfpgAAAAJ), Prof. [Yuntao Wang](https://scholar.google.com/citations?user=90fr-8wAAAAJ), and Prof. [Yiliang Liu](https://scholar.google.com/citations?user=beCuvCwAAAAJ). Prior to this, I obtained my B.E. in Information Engineering at XJTU in 2022.
 
 
 A data-driven personal website
