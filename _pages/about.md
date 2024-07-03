@@ -10,24 +10,7 @@ Hello, welcome
 
 I'm currently a Master student at the School of Cyber Science and Engineering, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) (XJTU), advised by Prof. [Zhou Su](https://scholar.google.com/citations?user=KDbnu2cAAAAJ). I'm also very lucky to receive the guidance of Prof. [Tom H. Luan](https://scholar.google.com/citations?user=lPDUfpgAAAAJ), Prof. [Yuntao Wang](https://scholar.google.com/citations?user=90fr-8wAAAAJ), and Prof. [Yiliang Liu](https://scholar.google.com/citations?user=beCuvCwAAAAJ). Prior to this, I obtained my B.E. in Information Engineering at XJTU in 2022.
 
-
-Research Interests
-======
-- Game Theory
-- Deep Reinforcement Learning
-- Network Economics
-- Communication Network
-- Resource Allocation
-- Metaverse
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research mainly focuses on distributed decision-making (e.g., game theory and multi-agent reinforcement learning) in stochastic, dynamic, and large-scale environments, with applications in communication networks (e.g., edge computing and resource allocation in Metaverse networks). Besides, I'm also interested in other topics, such as distributed machine learning, LLM agent, etc.
 
 Site-wide configuration
 ------
