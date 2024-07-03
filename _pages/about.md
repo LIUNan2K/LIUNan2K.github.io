@@ -13,9 +13,12 @@ I'm currently a Master student at the School of Cyber Science and Engineering, [
 
 Research Interests
 ======
-- hhhh
-- 46545645645
-- 454514351
+- Game Theory
+- Deep Reinforcement Learning
+- Network Economics
+- Communication Network
+- Resource Allocation
+- Metaverse
 
 Getting started
 ======
