@@ -13,9 +13,9 @@ I'm currently a Master student at the School of Cyber Science and Engineering, [
 
 Research Interests
 ======
-. hhhh
-. 46545645645
-. 454514351
+- hhhh
+- 46545645645
+- 454514351
 
 Getting started
 ======
