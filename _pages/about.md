@@ -16,12 +16,14 @@ You can find my CV [here](../assets/CV.pdf).
 
 Selected Publications
 ------
-- QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse. [[Paper]](../assets/TMC_paper.pdf)\
+- QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse.\
   **Nan Liu**, Tom H. Luan, Yuntao Wang, Yiliang Liu, Zhou Su. \
-  Submitted to *IEEE Transactions on Mobile Computing*, 2024.
-- Auction-Based Dynamic Resource Allocation in Social Metaverse. [[Paper]](../assets/MSN_paper.pdf) [[Slides]](../assets/MSN_slides.pdf)\
+  Submitted to *IEEE Transactions on Mobile Computing*, 2024.\
+  [[Paper]](../assets/TMC_paper.pdf)
+- Auction-Based Dynamic Resource Allocation in Social Metaverse.\
   **Nan Liu**, Tom H. Luan, Yuntao Wang, Yiliang Liu, Zhou Su. \
-  In the Proceedings of *the 19th IEEE International Conference on Mobility, Sensing and Networking (MSN 2023)*, Nanjing, China, December 14-16, 2023.
+  In the Proceedings of *the 19th IEEE International Conference on Mobility, Sensing and Networking (MSN 2023)*, Nanjing, China, December 14-16, 2023.\
+  [[Paper]](../assets/MSN_paper.pdf) [[Slides]](../assets/MSN_slides.pdf)
 
 Create content & metadata
 ------
