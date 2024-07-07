@@ -38,11 +38,11 @@ Awards and Honors
 Gallery
 ------
 Hiking in Qinling Mountains.\
-<img src="/images/hiking1.jpg" alt="Hiking with friends" height="100" style="border-radius: 15px;">
-<img src="/images/hiking2.jpg" alt="Hiking" height="100" style="border-radius: 15px;">\
+<img src="/images/hiking1.jpg" alt="Hiking with friends" height="10" style="border-radius: 15px;">
+<img src="/images/hiking2.jpg" alt="Hiking" height="10" style="border-radius: 15px;">\
 Having tennis matches.\
-<img src="/images/tennis1.jpg" alt="During match" height="100" style="border-radius: 15px;">
-<img src="/images/tennis2.jpg" alt="Before match" height="100" style="border-radius: 15px;">\
+<img src="/images/tennis1.jpg" alt="During match" height="10" style="border-radius: 15px;">
+<img src="/images/tennis2.jpg" alt="Before match" height="10" style="border-radius: 15px;">\
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ed7znl6inj&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
