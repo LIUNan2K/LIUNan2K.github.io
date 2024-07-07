@@ -18,7 +18,7 @@ Selected Publications
 ------
 - QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse.\
   **Nan Liu**, Tom H. Luan, Yuntao Wang, Yiliang Liu, Zhou Su. \
-  Under review. (Journal Paper)\
+  Under Review. (Journal Paper)\
   [[Paper]](../assets/TMC_paper.pdf)
 - Auction-Based Dynamic Resource Allocation in Social Metaverse.\
   **Nan Liu**, Tom H. Luan, Yuntao Wang, Yiliang Liu, Zhou Su. \
