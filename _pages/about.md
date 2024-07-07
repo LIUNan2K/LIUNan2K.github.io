@@ -37,10 +37,10 @@ Awards and Honors
 
 Gallery
 ------
-<img src="/images/hiking1.jpg" alt="Hiking with friends" style="height: 170px; width: auto; border-radius: 15px;">
-<img src="/images/hiking2.jpg" alt="Hiking" style="height: 170px; width: auto; border-radius: 15px;">
-<img src="/images/tennis1.jpg" alt="During match" style="height: 170px; width: auto; border-radius: 15px;">\
-<img src="/images/tennis2.jpg" alt="Before match" style="height: 300px; width: auto; border-radius: 15px;">
+<img src="/images/hiking1.jpg" alt="Hiking with friends" style="height: 180px; width: auto; border-radius: 15px;">
+<img src="/images/hiking2.jpg" alt="Hiking" style="height: 180px; width: auto; border-radius: 15px;">
+<img src="/images/tennis1.jpg" alt="During match" style="height: 180px; width: auto; border-radius: 15px;">\
+<img src="/images/tennis2.jpg" alt="Before match" style="height: 180px; width: auto; border-radius: 15px;">
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ed7znl6inj&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
