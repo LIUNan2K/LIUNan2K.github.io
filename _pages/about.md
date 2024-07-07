@@ -35,8 +35,3 @@ Awards and Honors
 - 10/2021: Second Prize, XJTU Undergraduate School Scholarship
 - 10/2021, 10/2020: Excellent Undergraduate Student, Xi'an Jiaotong University
 
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
