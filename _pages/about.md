@@ -42,6 +42,31 @@ Gallery
 <img src="/images/tennis1.jpg" alt="During match" style="height: 180px; width: auto; border-radius: 15px;">\
 <img src="/images/tennis2.jpg" alt="Before match" style="height: 180px; width: auto; border-radius: 15px;">
 
+# Photo Gallery
+
+This is a photo gallery with a vertical photo on the left and horizontal photos on the right.
+
+<div style="display: flex; align-items: flex-start;">
+  <!-- 竖排的照片 -->
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/images/tennis1.jpg" alt="Vertical Photo" style="width: 100%;">
+  </div>
+  
+  <!-- 横排的照片 -->
+  <div style="flex: 2; display: flex; flex-wrap: wrap;">
+    <div style="width: 50%; padding: 5px;">
+      <img src="/images/hiking1.jpg" alt="Horizontal Photo 1" style="width: 100%;">
+    </div>
+    <div style="width: 50%; padding: 5px;">
+      <img src="/images/hiking2.jpg" alt="Horizontal Photo 2" style="width: 100%;">
+    </div>
+    <div style="width: 100%; padding: 5px;">
+      <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" style="width: 100%;">
+    </div>
+  </div>
+</div>
+
+
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ed7znl6inj&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
