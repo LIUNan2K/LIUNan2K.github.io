@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nan Liu (柳楠)"
+title                    : "Nan Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nan Liu"
+  name             : "Nan Liu (柳楠)"
   pronouns         : # example: "she/her"  
-  bio              : "Master Student"
+  bio              : "Master Candidate @ XJTU"
   location         : "Xi'an, China"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
