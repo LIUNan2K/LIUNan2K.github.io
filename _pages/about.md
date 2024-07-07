@@ -37,7 +37,7 @@ Awards and Honors
 
 Gallery
 ------
-<img src="/images/hiking1.jpg" alt="Hiking with friends" height="10" style="border-radius: 15px;">
+<img src="/images/hiking1.jpg" alt="Hiking with friends" style="height: 100px; width: auto; border-radius: 2px;">
 <img src="/images/hiking2.jpg" alt="Hiking" height="10" style="border-radius: 15px;">
 <img src="/images/tennis1.jpg" alt="During match" height="10" style="border-radius: 15px;">\
 
