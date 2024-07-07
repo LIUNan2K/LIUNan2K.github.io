@@ -70,7 +70,7 @@ Gallery
 </div>
 
 ------
-*Visitors*
+<font size=5>*Visitors*</font>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ed7znl6inj&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 
