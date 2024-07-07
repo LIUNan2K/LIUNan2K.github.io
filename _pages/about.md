@@ -37,10 +37,9 @@ Awards and Honors
 
 Gallery
 ------
-<img src="/images/hiking1.jpg" alt="Hiking with friends" style="height: 200px; width: auto; border-radius: 15px;">
-<img src="/images/hiking2.jpg" alt="Hiking" style="height: 200px; width: auto; border-radius: 15px;">
-<img src="/images/tennis1.jpg" alt="During match" style="height: 200px; width: auto; border-radius: 15px;">\
-
+<img src="/images/hiking1.jpg" alt="Hiking with friends" style="height: 170px; width: auto; border-radius: 15px;">
+<img src="/images/hiking2.jpg" alt="Hiking" style="height: 170px; width: auto; border-radius: 15px;">
+<img src="/images/tennis1.jpg" alt="During match" style="height: 170px; width: auto; border-radius: 15px;">\
 <img src="/images/tennis2.jpg" alt="Before match" style="height: 300px; width: auto; border-radius: 15px;">
 
 
