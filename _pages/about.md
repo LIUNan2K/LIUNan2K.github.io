@@ -49,7 +49,7 @@ This is a photo gallery with a vertical photo on the left and horizontal photos 
 <div style="display: flex; align-items: flex-start;">
   <!-- 竖排的照片 -->
   <div style="flex: 1; margin-right: 10px;">
-    <img src="/images/tennis1.jpg" alt="Vertical Photo" style="width: 100%; border-radius: 15px;">
+    <img src="/images/photo1.jpg" alt="Vertical Photo" style="width: 100%; border-radius: 15px;">
   </div>
   
   <!-- 横排的照片 -->
@@ -63,6 +63,19 @@ This is a photo gallery with a vertical photo on the left and horizontal photos 
     <div style="width: 100%; padding: 5px;">
       <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" style="width: 100%; border-radius: 15px;">
     </div>
+  </div>
+</div>
+
+<!-- 底部并排的三张照片 -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="/images/tennis1.jpg" alt="Bottom Photo 1" style="width: 100%; border-radius: 15px;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="/images/photo2.jpg" alt="Bottom Photo 2" style="width: 100%; border-radius: 15px;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="/images/cat.jpg" alt="Bottom Photo 3" style="width: 100%; border-radius: 15px;">
   </div>
 </div>
 
