@@ -25,9 +25,15 @@ Selected Publications
   In the Proceedings of *the 19th IEEE International Conference on Mobility, Sensing and Networking (MSN 2023)*, Nanjing, China, December 14-16, 2023.\
   [[Paper]](../assets/MSN_paper.pdf) [[Slides]](../assets/MSN_slides.pdf)
 
-Create content & metadata
+Honors and Awards
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- 10/2023, 10/2022: Grand Prize, XJTU Graduate Study Scholarship
+- 10/2023: Excellent Graduate Student, Xi'an Jiaotong University
+- 10/2022: First Prize, XJTU Graduate Freshmen Scholarship
+- 05/2022: First Prize, the $\mathrm{4^{th}}$ ``Tong Da'' Cup Software-Defined Radio Contest
+- 12/2021: National Second Prize, 2021 National Undergraduate Electronic Design Contest
+- 10/2021: Second Prize, XJTU Undergraduate School Scholarship
+- 10/2021, 10/2020: Excellent Undergraduate Student, Xi'an Jiaotong University
 
 **Markdown generator**
 
