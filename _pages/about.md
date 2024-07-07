@@ -27,13 +27,17 @@ Selected Publications
 
 Awards and Honors
 ------
-- 10/2023, 10/2022: Grand Prize, XJTU Graduate Study Scholarship
+- 10/2023, 10/2022: Grand Prize, <abbr title="Xi'an Jiaotong University">XJTU</abbr> Graduate Study Scholarship
 - 10/2023: Excellent Graduate Student, Xi'an Jiaotong University
 - 10/2022: First Prize, XJTU Graduate Freshmen Scholarship
 - 05/2022: First Prize, the 4<sup>th</sup> "Tong Da" Cup Software-Defined Radio Contest
 - 12/2021: National Second Prize, 2021 National Undergraduate Electronic Design Contest
 - 10/2021: Second Prize, XJTU Undergraduate School Scholarship
 - 10/2021, 10/2020: Excellent Undergraduate Student, Xi'an Jiaotong University
+
+Gallery
+------
+
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ed7znl6inj&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
