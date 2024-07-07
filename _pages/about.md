@@ -37,15 +37,6 @@ Awards and Honors
 
 Gallery
 ------
-<img src="/images/hiking1.jpg" alt="Hiking with friends" style="height: 180px; width: auto; border-radius: 15px;">
-<img src="/images/hiking2.jpg" alt="Hiking" style="height: 180px; width: auto; border-radius: 15px;">
-<img src="/images/tennis1.jpg" alt="During match" style="height: 180px; width: auto; border-radius: 15px;">\
-<img src="/images/tennis2.jpg" alt="Before match" style="height: 180px; width: auto; border-radius: 15px;">
-
-# Photo Gallery
-
-This is a photo gallery with a vertical photo on the left and horizontal photos on the right.
-
 <div style="display: flex; align-items: flex-start;">
   <!-- 竖排的照片 -->
   <div style="flex: 1; margin-right: 10px;">
