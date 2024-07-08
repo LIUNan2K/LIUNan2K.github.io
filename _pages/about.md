@@ -37,7 +37,25 @@ Awards and Honors
 Gallery
 ------
 
-<img src="/images/photo1.jpg" alt="Vertical Photo" style="width: 100%; border-radius: 15px;">
+<script src="https://cdn.rawgit.com/exif-js/exif-js/master/exif.js"></script>
+<script>
+  window.onload = function() {
+    var img = document.querySelector('img');
+    EXIF.getData(img, function() {
+      var orientation = EXIF.getTag(this, "Orientation");
+      if(orientation) {
+        var rotate = 0;
+        switch(orientation) {
+          case 3: rotate = 180; break;
+          case 6: rotate = 90; break;
+          case 8: rotate = -90; break;
+        }
+        img.style.transform = 'rotate(' + rotate + 'deg)';
+      }
+    });
+  }
+</script>
+
 
 
 
