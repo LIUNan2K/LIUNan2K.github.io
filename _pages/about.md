@@ -45,7 +45,6 @@ Gallery
     .vertical-photo {
       width: 100%;
       border-radius: 15px;
-      transform: rotate(0deg);
     }
     .horizontal-photo {
       width: 100%;
@@ -115,8 +114,26 @@ Gallery
       <img src="/images/cat.jpg" alt="Bottom Photo 3" class="horizontal-photo">
     </div>
   </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const images = document.querySelectorAll('img.vertical-photo');
+      images.forEach(img => {
+        img.onload = () => {
+          const width = img.naturalWidth;
+          const height = img.naturalHeight;
+          if (height > width) {
+            img.style.transform = 'rotate(0deg)';
+          } else {
+            img.style.transform = 'rotate(90deg)';
+          }
+        }
+      });
+    });
+  </script>
 </body>
 </html>
+
 
 
 
