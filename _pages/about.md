@@ -39,7 +39,7 @@ Gallery
 <div style="display: flex; align-items: flex-start;">
   <!-- 竖排的照片 -->
   <div style="flex: 1; margin-right: 10px;">
-    <img src="/images/photo1.jpg" alt="Vertical Photo" style="height: 100%; border-radius: 15px;">
+    <img src="/images/photo1.jpg" alt="Vertical Photo" style="width: 100%; border-radius: 15px;">
   </div>
   
   <!-- 横排的照片 -->
@@ -54,7 +54,7 @@ Gallery
       <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" style="width: 100%; border-radius: 15px;">
     </div>
   </div>
-</div>\
+</div>
 <!-- 底部并排的三张照片 -->
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding: 5px;">
