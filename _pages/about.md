@@ -36,103 +36,38 @@ Awards and Honors
 
 Gallery
 ------
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .vertical-photo {
-      width: 100%;
-      border-radius: 15px;
-    }
-    .horizontal-photo {
-      width: 100%;
-      border-radius: 15px;
-    }
-    .photo-container {
-      display: flex;
-      align-items: flex-start;
-    }
-    .vertical-photo-container {
-      flex: 1;
-      margin-right: 10px;
-    }
-    .horizontal-photo-container {
-      flex: 2;
-      display: flex;
-      flex-wrap: wrap;
-    }
-    .photo-wrapper {
-      width: 50%;
-      padding: 5px;
-    }
-    .photo-wrapper-full {
-      width: 100%;
-      padding: 5px;
-    }
-    .bottom-photos {
-      display: flex;
-      justify-content: space-between;
-    }
-    .bottom-photo-wrapper {
-      flex: 1;
-      padding: 5px;
-    }
-  </style>
-</head>
-<body>
-  <div class="photo-container">
-    <!-- 竖排的照片 -->
-    <div class="vertical-photo-container">
-      <img src="/images/photo1.jpg" alt="Vertical Photo" class="vertical-photo">
+<div style="display: flex; align-items: flex-start;">
+  <!-- 竖排的照片 -->
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/images/photo1.jpg" alt="Vertical Photo" style="width: 95%; border-radius: 15px;">
+  </div>
+  
+  <!-- 横排的照片 -->
+  <div style="flex: 2; display: flex; flex-wrap: wrap;">
+    <div style="width: 50%; padding: 5px;">
+      <img src="/images/hiking1.jpg" alt="Horizontal Photo 1" style="width: 100%; border-radius: 15px;">
     </div>
-    
-    <!-- 横排的照片 -->
-    <div class="horizontal-photo-container">
-      <div class="photo-wrapper">
-        <img src="/images/hiking1.jpg" alt="Horizontal Photo 1" class="horizontal-photo">
-      </div>
-      <div class="photo-wrapper">
-        <img src="/images/hiking2.jpg" alt="Horizontal Photo 2" class="horizontal-photo">
-      </div>
-      <div class="photo-wrapper-full">
-        <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" class="horizontal-photo">
-      </div>
+    <div style="width: 50%; padding: 5px;">
+      <img src="/images/hiking2.jpg" alt="Horizontal Photo 2" style="width: 100%; border-radius: 15px;">
+    </div>
+    <div style="width: 100%; padding: 5px;">
+      <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" style="width: 100%; border-radius: 15px;">
     </div>
   </div>
+</div>
 
-  <!-- 底部并排的三张照片 -->
-  <div class="bottom-photos">
-    <div class="bottom-photo-wrapper">
-      <img src="/images/tennis1.jpg" alt="Bottom Photo 1" class="horizontal-photo">
-    </div>
-    <div class="bottom-photo-wrapper">
-      <img src="/images/photo2.jpg" alt="Bottom Photo 2" class="horizontal-photo">
-    </div>
-    <div class="bottom-photo-wrapper">
-      <img src="/images/cat.jpg" alt="Bottom Photo 3" class="horizontal-photo">
-    </div>
+<!-- 底部并排的三张照片 -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="/images/tennis1.jpg" alt="Bottom Photo 1" style="width: 100%; border-radius: 15px;">
   </div>
-
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const images = document.querySelectorAll('img.vertical-photo');
-      images.forEach(img => {
-        img.onload = () => {
-          const width = img.naturalWidth;
-          const height = img.naturalHeight;
-          if (height > width) {
-            img.style.transform = 'rotate(0deg)';
-          } else {
-            img.style.transform = 'rotate(90deg)';
-          }
-        }
-      });
-    });
-  </script>
-</body>
-</html>
+  <div style="flex: 1; padding: 5px;">
+    <img src="/images/photo2.jpg" alt="Bottom Photo 2" style="width: 100%; border-radius: 15px;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="/images/cat.jpg" alt="Bottom Photo 3" style="width: 100%; border-radius: 15px;">
+  </div>
+</div>
 
 
 
