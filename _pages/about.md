@@ -36,28 +36,27 @@ Awards and Honors
 
 Gallery
 ------
-<div style="display: flex; justify-content: space-between;">
-  <div style="display: flex; align-items: flex-start;">
-    <!-- 竖排的照片 -->
-    <div style="flex: 1; margin-right: 10px;">
-      <img src="/images/photo1.jpg" alt="Vertical Photo" style="width: 95%; border-radius: 15px;">
-    </div>
+<div style="display: flex; align-items: flex-start;">
+  <!-- 竖排的照片 -->
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/images/photo1.jpg" alt="Vertical Photo" style="width: 95%; border-radius: 15px;">
+  </div>
   
-    <!-- 横排的照片 -->
-    <div style="flex: 2; display: flex; flex-wrap: wrap;">
-      <div style="width: 50%; padding: 5px;">
-        <img src="/images/hiking1.jpg" alt="Horizontal Photo 1" style="width: 100%; border-radius: 15px;">
-      </div>
-      <div style="width: 50%; padding: 5px;">
-        <img src="/images/hiking2.jpg" alt="Horizontal Photo 2" style="width: 100%; border-radius: 15px;">
-      </div>
-      <div style="width: 100%; padding: 5px;">
-        <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" style="width: 100%; border-radius: 15px;">
-      </div>
+  <!-- 横排的照片 -->
+  <div style="flex: 2; display: flex; flex-wrap: wrap;">
+    <div style="width: 50%; padding: 5px;">
+      <img src="/images/hiking1.jpg" alt="Horizontal Photo 1" style="width: 100%; border-radius: 15px;">
+    </div>
+    <div style="width: 50%; padding: 5px;">
+      <img src="/images/hiking2.jpg" alt="Horizontal Photo 2" style="width: 100%; border-radius: 15px;">
+    </div>
+    <div style="width: 100%; padding: 5px;">
+      <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" style="width: 100%; border-radius: 15px;">
     </div>
   </div>
-
-  <!-- 底部的照片 -->
+</div>\
+<!-- 底部并排的三张照片 -->
+<div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding: 5px;">
     <img src="/images/tennis1.jpg" alt="Bottom Photo 1" style="width: 100%; border-radius: 15px;">
   </div>
