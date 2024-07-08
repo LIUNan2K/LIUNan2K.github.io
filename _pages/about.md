@@ -50,9 +50,7 @@ Gallery
     <div style="width: 50%; padding: 5px;">
       <img src="/images/hiking2.jpg" alt="Horizontal Photo 2" style="width: 100%; border-radius: 15px;">
     </div>
-    <div style="width: 100%; padding: 5px;">
-      <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" style="width: 50%; border-radius: 15px;">
-    </div>
+    
   </div>
 </div>
 <!-- 底部并排的三张照片 -->
