@@ -54,8 +54,7 @@ Gallery
       <img src="/images/tennis2.jpg" alt="Horizontal Photo 3" style="width: 100%; border-radius: 15px;">
     </div>
   </div>
-</div>
-
+</div>\
 <!-- 底部并排的三张照片 -->
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding: 5px;">
