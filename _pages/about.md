@@ -39,7 +39,7 @@ Gallery
 <div style="display: flex; align-items: flex-start;">
   <!-- 竖排的照片 -->
   <div style="flex: 1; margin-right: 10px;">
-    <img src="/images/photo1.jpg" alt="Vertical Photo" style="width: 95%; border-radius: 15px;">
+    <img src="/images/photo1.jpg" alt="Vertical Photo" style="height: 100%; border-radius: 15px;">
   </div>
   
   <!-- 横排的照片 -->
